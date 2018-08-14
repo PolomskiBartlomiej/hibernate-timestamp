@@ -1,0 +1,2 @@
+INSERT INTO CUSTOMER
+VALUES (2, '2018-01-01', 'firstName', null);
