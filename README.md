@@ -1,8 +1,8 @@
 # hibernate-timestamp
 
-* `@CreationTimestamp` - The property value will be set to the current VM date exactly once 
+* `@CreationTimestamp` - the property value will be set to the current VM date exactly once 
 when saving the owning entity for the first time.
-* `@UpdateTimestamp` - The property value will be set to the current VM date whenever the 
+* `@UpdateTimestamp` - the property value will be set to the current VM date whenever the 
 owning entity is updated.
 
 Java 8 Date API is fully supported:
