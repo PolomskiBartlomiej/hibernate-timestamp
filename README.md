@@ -6,9 +6,9 @@ when saving the owning entity for the first time.
 owning entity is updated.
 
 Java 8 Date API is fully supported:
-   * LocalDate
-   * LocalDateTime
-   * LocalTime
+   * `LocalDate`
+   * `LocalDateTime`
+   * `LocalTime`
    
 # project description
 In `AppRunner` we add customer and check `creationTimestamp`, then we modify pre-existing 
