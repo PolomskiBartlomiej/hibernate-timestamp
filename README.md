@@ -1,5 +1,7 @@
 # hibernate-timestamp
+Short introduction to `CreationTimestamp` and `UpdateTimestamp`.
 
+# preface
 * `@CreationTimestamp` - the property value will be set to the current VM date exactly once 
 when saving the owning entity for the first time.
 * `@UpdateTimestamp` - the property value will be set to the current VM date whenever the 
